@@ -60,3 +60,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: "/spring"
+      type: "spinrgs"
+    values:
+      alyout: "spring"
