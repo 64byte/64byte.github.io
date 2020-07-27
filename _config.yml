@@ -1,6 +1,6 @@
-site: Sidey
+site: Story
 url: #yoururl
-title: Sidey
+title: Story
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
   username: #yourusername
@@ -14,7 +14,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: ""
+baseurl: "https://64byte.github.io/"
 
 highlighter: none
 
